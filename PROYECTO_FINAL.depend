@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1654910310 source:c:\users\hp\desktop\progra ii parcial final\proyecto_final\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<string.h>
+	"menus.h"
+	"facturacion.h"
+
+1654908295 c:\users\hp\desktop\progra ii parcial final\proyecto_final\menus.h
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1654906001 c:\users\hp\desktop\progra ii parcial final\proyecto_final\facturacion.h
+	<iostream>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
+1654956553 source:c:\users\pablo\downloads\proyecto_final\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"menus.h"
+	"facturacion.h"
+
+1654956516 c:\users\pablo\downloads\proyecto_final\menus.h
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1654920698 c:\users\pablo\downloads\proyecto_final\facturacion.h
+	<iostream>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
