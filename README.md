@@ -31,5 +31,3 @@ El proyecto utiliza las bibliotecas estándar de C++ y puede requerir ajustes se
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 ---
-
-¡Diviértete jugando Cacho!
